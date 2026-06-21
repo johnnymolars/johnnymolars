@@ -7,10 +7,12 @@ $${\color{#694306}id\ love\ it\ if\ you\ did\ cause\ im\ not\ great\ with\ start
 
 
 
-
 $${\color{#694306}talk\ to\ me\ about\ jthm\ im\ gay{}}$$
 
-I'll put more here later sigh
+<p align="center">
+ *I'll put more here later sigh*
+</p>
+
 
 
 <img align="right" width="250" height="250" src="https://github.com/johnnymolars/johnnymolars/blob/9a83819fbd16e604e31d16692abd5cd20ee78c43/Untitled149_20260621070408.png">
