@@ -5,6 +5,9 @@ $${\color{#694306}hey!\ just\ so\ you\ know\ this\ intro\ is\ a\ work\ in\ progr
 $${\color{#694306}im\ not\ off\ tab\ often\ so\ if\ youd\ like\ you\ can\ talk\ to\ me,{}}$$
 $${\color{#694306}id\ love\ it\ if\ you\ did\ cause\ im\ not\ great\ with\ starting\ conversations,,,,{}}$$
 
+
+
+
 $${\color{#694306}talk\ to\ me\ about\ jthm\ im\ gay{}}$$
 
 I'll put more here later sigh
