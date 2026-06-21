@@ -8,4 +8,5 @@ talk to me about jthm im gay
 
 I'll put more here later sigh
 
-![image_alt](https://github.com/johnnymolars/johnnymolars/blob/4c102ec4f39da9f6e1e1eacce30bad43bde221bf/b7b296273000a5f915f14e2fae39b6799ff83dd0_256.webp)
+
+<img align="right" width="500" height="450" src="https://github.com/johnnymolars/johnnymolars/blob/a9d6503de54b8f2bb8f4887d78bbd02d289077e4/tumblr_c151961449fa850cb897227c7397d8be_acdea43b_250.png">
