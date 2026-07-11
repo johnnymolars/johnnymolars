@@ -29,3 +29,6 @@ $${\color{#611f01}if\ you\ want\ to\ contact\ me\ my\ discord\ handle\ is\ rounh
 <br/>
 <br/>
 <img align="right" width="390" height="200" src="https://github.com/johnnymolars/johnnymolars/blob/d1e1eae689b8bb51a412721431015fdfacba7dc1/Untitled165_20260711112803.png">
+
+
+![](https://komarev.com/ghpvc/?username=johnnymolars&color=611f01&style=plastic&label=profile+looksies+✙)
