@@ -14,7 +14,9 @@ $${\color{#611f01}i\ dont\ really\ have\ a\ spot\ i\ hang\ out\ at...\ yet. have
 $${\color{#a8643d}I\ sometimes\ process\ things\ slowly,\ please\ do\ be\ patient\ when\ talking\ to\ me{}}$$
 $${\color{#611f01}Nonsharing\ Johnny\ C.\ Gachikoi.\ doubles\ on\ thin\ ice,\ though\ please\ do\ interact,{}}$$
 $${\color{#611f01}id\ love\ to\ meet\ more\ jthm\ fans.\ just\ dont\ mention\ him\ around\ me\ when\ talking\ about\ him\ romantically.{}}$$
-$${\color{#a8643d}ਏਓ{}}$$
+$${\color{#a8643d}please\ ask\ for\ permission\ to\ c/h{}}$$
+$${\color{#611f01}sign\ my\ atabook\ 👀\ cool\ people\ sign\ my\ atabook\ 👀{}}$$
+$${\color{#a8643d}𖠁{}}$$
 $${\color{#611f01}if\ you\ want\ to\ contact\ me\ my\ discord\ handle\ is\ rounhaus{}}$$
 
 
