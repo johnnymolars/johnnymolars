@@ -19,17 +19,7 @@ $${\color{#611f01}sign\ my\ atabook\ 👀\ cool\ people\ sign\ my\ atabook\ 👀
 $${\color{#a8643d}𖠁{}}$$
 $${\color{#611f01}if\ you\ want\ to\ contact\ me\ my\ discord\ handle\ is\ rounhaus{}}$$
 
-
-
-<p align="center">
- *I'll put more here later sigh*
-</p>
-
-
-
-
-
-<img align="right" width="250" height="150" src="https://github.com/johnnymolars/johnnymolars/blob/294b117df0ab41e87694c86e75998ba30f12111c/tumblr_5ac17ea6d0f7a0dacb21e954406e7d3a_e738b097_250.gif.webp">
+<img align="right" width="250" height="190" src="https://github.com/johnnymolars/johnnymolars/blob/294b117df0ab41e87694c86e75998ba30f12111c/tumblr_5ac17ea6d0f7a0dacb21e954406e7d3a_e738b097_250.gif.webp">
 
 
 
@@ -37,5 +27,7 @@ $${\color{#611f01}if\ you\ want\ to\ contact\ me\ my\ discord\ handle\ is\ rounh
 <br/>
 <br/>
 <br/>
+<br/>
+<img align="right" width="390" height="200" src="https://github.com/johnnymolars/johnnymolars/blob/d1e1eae689b8bb51a412721431015fdfacba7dc1/Untitled165_20260711112803.png">
 
-
+<img src="https://github.com/johnnymolars/johnnymolars/blob/d1e1eae689b8bb51a412721431015fdfacba7dc1/tumblr_efa3b93894a7172d55d55c887da34255_96943244_1280.png"/>
