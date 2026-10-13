@@ -1,8 +1,8 @@
 
 
-<img align="right" width="360" height="150" src="https://github.com/johnnymolars/johnnymolars/blob/c195ebb5921466c8404226ad595e1bdf353c1010/Untitled164_20260711093302.png"><img align="left" width="399" height="200" src="https://github.com/johnnymolars/johnnymolars/blob/bbef7ce423a3fb8bb642f24a9d76923956a3db31/Untitled186_20261012213857.png">
+<img align="right" width="360" height="150" src="https://github.com/johnnymolars/johnnymolars/blob/e147ed257eddb9d339133ff76d06c08b936e239d/tumblr_e7418ae130dd51846e38c1ce33a06fdd_19bb65c4_250.gif"><img align="left" width="399" height="200" src="https://github.com/johnnymolars/johnnymolars/blob/bbef7ce423a3fb8bb642f24a9d76923956a3db31/Untitled186_20261012213857.png">
 
-<img src="https://github.com/johnnymolars/johnnymolars/blob/294b117df0ab41e87694c86e75998ba30f12111c/tumblr_c563452c19f583cec1c02d9333f6d6a8_159362af_2048.png"/>
+<img src="https://github.com/johnnymolars/johnnymolars/blob/75006c5ed1783ab4c0da64f3decbb937935df5ca/e3cce4739e75718376fe94106dbe137bcef261cf.png"/>
 
 
 $${\color{#b8edff}✙{}}$$
