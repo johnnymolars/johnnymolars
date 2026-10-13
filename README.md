@@ -28,7 +28,7 @@ $${\color{#b8edff}if\ you\ want\ to\ contact\ me\ my\ discord\ handle\ is\ rounh
 <br/>
 <br/>
 <br/>
-<img align="right" width="390" height="200" src="https://github.com/johnnymolars/johnnymolars/blob/d1e1eae689b8bb51a412721431015fdfacba7dc1/Untitled165_20260711112803.png">
+<img align="right" width="588" height="200" src="https://github.com/johnnymolars/johnnymolars/blob/1056c21db01a8be7610e86d4a62b39223ad8df04/Untitled186_20261012230525.png">
 
 
 ![](https://komarev.com/ghpvc/?username=johnnymolars&color=69d9ff&style=plastic&label=profile+looksies+✙)
