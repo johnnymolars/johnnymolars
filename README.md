@@ -32,6 +32,8 @@ $${\color{#b8edff}if\ you\ want\ to\ contact\ me\ my\ discord\ handle\ is\ rounh
 
 
 ![](https://komarev.com/ghpvc/?username=johnnymolars&color=69d9ff&style=plastic&label=profile+looksies+✙)
+<br/>
+
 
 <p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
