@@ -19,9 +19,6 @@ $${\color{#b8edff}sign\ my\ atabook\ 👀\ cool\ people\ sign\ my\ atabook\ 👀
 $${\color{#ff5cab}𖠁{}}$$
 $${\color{#b8edff}if\ you\ want\ to\ contact\ me\ my\ discord\ handle\ is\ rounhaus{}}$$
 
-<p align="center">
-  <img src="https://github.com/johnnymolars/johnnymolars/blob/10fe5eaa890af6f618f825b30e8025c938fe8a56/40.gif" />
-</p>
 
 <p align="right"><a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?width=300&height=100&backgroundOpacity=0&border=false&lines=%5B%7B%22text%22%3A%22%5C%22Theres+one+more+hour%5Cnand+then+you%27ll+%5Cnfind+me+dead.%5C%22+%22%2C%22font%22%3A%22Arial+Narrow%22%2C%22color%22%3A%22%23ff87cb%22%2C%22typingSpeed%22%3A0.125%2C%22deleteSpeed%22%3A0.043478260869565216%7D%2C%7B%22text%22%3A%22Pink+Cigarette%2C+%5Cn+Mr+Bungle%22%2C%22font%22%3A%22Arial+Narrow%22%2C%22color%22%3A%22%23a3f0ff%22%2C%22typingSpeed%22%3A0.125%2C%22deleteSpeed%22%3A0.043478260869565216%7D%5D" alt="Typing SVG" /></a>
 
@@ -34,6 +31,8 @@ $${\color{#b8edff}if\ you\ want\ to\ contact\ me\ my\ discord\ handle\ is\ rounh
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=johnnymolars&color=69d9ff&style=plastic&label=profile+looksies+🧁)
-
+![](https://komarev.com/ghpvc/?username=johnnymolars&color=69d9ff&style=plastic&label=profile+looksies+🧁) 
+<p align="left">
+  <img src="https://github.com/johnnymolars/johnnymolars/blob/10fe5eaa890af6f618f825b30e8025c938fe8a56/40.gif" />
+</p>
  
