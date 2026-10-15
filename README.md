@@ -28,7 +28,11 @@ $${\color{#b8edff}if\ you\ want\ to\ contact\ me\ my\ discord\ handle\ is\ rounh
 
 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=316qjpf3qamzbzarl26gnv5te3ne&cover_image=true&theme=novatorem&show_offline=false&background_color=ff9ecb&interchange=true&profanity=false&hide_remaster=false&bar_color=91f2ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316qjpf3qamzbzarl26gnv5te3ne&cover_image=true&theme=novatorem&show_offline=false&background_color=ffa6d2&interchange=true&profanity=false&hide_remaster=false&bar_color=b8f0ff&bar_color_cover=false">
+  </a>
+</p>
 
 
 ![](https://komarev.com/ghpvc/?username=johnnymolars&color=69d9ff&style=plastic&label=profile+looksies+🧁)
