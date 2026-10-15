@@ -26,7 +26,6 @@ $${\color{#b8edff}if\ you\ want\ to\ contact\ me\ my\ discord\ handle\ is\ rounh
 <br/>
 <br/>
 <br/>
-<br/>
 <img align="right" width="506" height="200" src="https://github.com/johnnymolars/johnnymolars/blob/1056c21db01a8be7610e86d4a62b39223ad8df04/Untitled186_20261012230525.png">
 
 <p align="left">
