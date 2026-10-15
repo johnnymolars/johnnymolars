@@ -28,6 +28,6 @@ $${\color{#b8edff}if\ you\ want\ to\ contact\ me\ my\ discord\ handle\ is\ rounh
 
 
 
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=316qjpf3qamzbzarl26gnv5te3ne&theme=radical&count=1&width=370&radius=6&duration=1&album=1&username=off&footer=wave&bg_color=ffe3f2&text_color=c22f60&artist_color=6cb8b0&meta_color=6e2eb8&accent_color=846cb8&logo_color=4c2d87)
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=316qjpf3qamzbzarl26gnv5te3ne&theme=radical&count=1&width=370&radius=22&duration=1&album=1&username=off&bg_color=ffe3f2&text_color=c22f60&artist_color=6cb8b0&meta_color=6e2eb8&accent_color=846cb8&logo_color=4c2d87)
 
 ![](https://komarev.com/ghpvc/?username=johnnymolars&color=69d9ff&style=plastic&label=profile+looksies+🧁)
