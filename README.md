@@ -19,7 +19,7 @@ $${\color{#b8edff}sign\ my\ atabook\ 👀\ cool\ people\ sign\ my\ atabook\ 👀
 $${\color{#ff5cab}𖠁{}}$$
 $${\color{#b8edff}if\ you\ want\ to\ contact\ me\ my\ discord\ handle\ is\ rounhaus{}}$$
 
-<img align="middle" width="150" height="90" src="https://github.com/johnnymolars/johnnymolars/blob/abd40e477c04abf1488430e36070cd5dde50b269/40.gif">
+<img align="center" width="150" height="90" src="https://github.com/johnnymolars/johnnymolars/blob/abd40e477c04abf1488430e36070cd5dde50b269/40.gif">
 
 <br/>
 <br/>
