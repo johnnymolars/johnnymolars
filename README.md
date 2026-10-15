@@ -28,6 +28,11 @@ $${\color{#b8edff}if\ you\ want\ to\ contact\ me\ my\ discord\ handle\ is\ rounh
 
 
 
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=316qjpf3qamzbzarl26gnv5te3ne&theme=radical&count=1&width=370&radius=22&duration=1&album=1&username=off&bg_color=ffe3f2&text_color=c22f60&artist_color=6cb8b0&meta_color=6e2eb8&accent_color=846cb8&logo_color=4c2d87)
+<p align="left">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316qjpf3qamzbzarl26gnv5te3ne&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=5c4117&bar_color_cover=true">
+  </a>
+</p>
+
 
 ![](https://komarev.com/ghpvc/?username=johnnymolars&color=69d9ff&style=plastic&label=profile+looksies+🧁)
