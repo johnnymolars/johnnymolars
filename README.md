@@ -23,9 +23,10 @@ $${\color{#ff5cab}𖠁{}}$$
 $${\color{#b8edff}if\ you\ want\ to\ contact\ me\ my\ discord\ handle\ is\ rounhaus{}}$$
 
 
-<p align="right"><a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?width=300&height=100&backgroundOpacity=0&border=false&lines=%5B%7B%22text%22%3A%22%5C%22Theres+one+more+hour%5Cnand+then+you%27ll+%5Cnfind+me+dead.%5C%22+%22%2C%22font%22%3A%22Arial+Narrow%22%2C%22color%22%3A%22%23ff87cb%22%2C%22typingSpeed%22%3A0.125%2C%22deleteSpeed%22%3A0.043478260869565216%7D%2C%7B%22text%22%3A%22Pink+Cigarette%2C+%5Cn+Mr+Bungle%22%2C%22font%22%3A%22Arial+Narrow%22%2C%22color%22%3A%22%23a3f0ff%22%2C%22typingSpeed%22%3A0.125%2C%22deleteSpeed%22%3A0.043478260869565216%7D%5D" alt="Typing SVG" /></a>
+<p align="center"><a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?width=300&height=100&backgroundOpacity=0&border=false&lines=%5B%7B%22text%22%3A%22%5C%22Theres+one+more+hour%5Cnand+then+you%27ll+%5Cnfind+me+dead.%5C%22+%22%2C%22font%22%3A%22Arial+Narrow%22%2C%22color%22%3A%22%23ff87cb%22%2C%22typingSpeed%22%3A0.125%2C%22deleteSpeed%22%3A0.043478260869565216%7D%2C%7B%22text%22%3A%22Pink+Cigarette%2C+%5Cn+Mr+Bungle%22%2C%22font%22%3A%22Arial+Narrow%22%2C%22color%22%3A%22%23a3f0ff%22%2C%22typingSpeed%22%3A0.125%2C%22deleteSpeed%22%3A0.043478260869565216%7D%5D" alt="Typing SVG" /></a>
 
 
+<br/>
 
 <p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
