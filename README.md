@@ -1,6 +1,6 @@
 
 
-<img align="right" width="378" height="430" src="https://github.com/johnnymolars/johnnymolars/blob/c63211e27e23e2bef59a52eb4bb54ce310e7fa9d/tumblr_inline_p8p03zEdJb1ul87b8_1280.gif"><img align="left" width="428" height="430" src="https://github.com/johnnymolars/johnnymolars/blob/bbef7ce423a3fb8bb642f24a9d76923956a3db31/Untitled186_20261012213857.png">
+<img align="right" width="230" height="230" src="https://github.com/johnnymolars/johnnymolars/blob/c63211e27e23e2bef59a52eb4bb54ce310e7fa9d/tumblr_inline_p8p03zEdJb1ul87b8_1280.gif"><img align="left" width="428" height="430" src="https://github.com/johnnymolars/johnnymolars/blob/bbef7ce423a3fb8bb642f24a9d76923956a3db31/Untitled186_20261012213857.png">
 
 
 
