@@ -19,7 +19,7 @@ $${\color{#b8edff}sign\ my\ atabook\ 👀\ cool\ people\ sign\ my\ atabook\ 👀
 $${\color{#ff5cab}𖠁{}}$$
 $${\color{#b8edff}if\ you\ want\ to\ contact\ me\ my\ discord\ handle\ is\ rounhaus{}}$$
 
-<img align="right" src="https://github.com/johnnymolars/johnnymolars/blob/abd40e477c04abf1488430e36070cd5dde50b269/40.gif">
+<img align="right" width="150" height="90" src="https://github.com/johnnymolars/johnnymolars/blob/abd40e477c04abf1488430e36070cd5dde50b269/40.gif">
 
 
 
@@ -30,8 +30,12 @@ $${\color{#b8edff}if\ you\ want\ to\ contact\ me\ my\ discord\ handle\ is\ rounh
 <br/>
 <img align="right" width="506" height="200" src="https://github.com/johnnymolars/johnnymolars/blob/1056c21db01a8be7610e86d4a62b39223ad8df04/Untitled186_20261012230525.png">
 
+<p align="left">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316qjpf3qamzbzarl26gnv5te3ne&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=5c4117&bar_color_cover=true">
+  </a>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=johnnymolars&color=69d9ff&style=plastic&label=profile+looksies+✙)
-<br/>
 
 
